@@ -1,7 +1,7 @@
 # SunScreen
 ![Logo](https://www.speartip.com/wp-content/uploads/2020/12/Copy-of-sunburst-3.png)
 
-SunScreen is a tool that attempts to detect systems that are vulnerable to SunBurst, or that have been exploited by SunBurst.
+SunScreen is a tool utilized to detect systems vulnerable to SunBurst, or that have been exploited by SunBurst.
 
 ## Usage
 
