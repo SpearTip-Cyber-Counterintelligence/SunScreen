@@ -18,7 +18,7 @@ When it is complete, a text file titled SolarWinds_Info.txt will appear on the D
 
 If SunScreen locates the Orion.Core.BusinessLayer.dll, you need to assume your system has been compromised. 
 
-As SpearTip discovered more Indicators of Compromise, SunScreen will recieve updates to reflect them.
+As SpearTip discovers more Indicators of Compromise, SunScreen will recieve updates to reflect them.
 
 
 ## Contributing
