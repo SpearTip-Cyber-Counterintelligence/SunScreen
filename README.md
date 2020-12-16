@@ -14,7 +14,7 @@ SunScreen will then begin scanning the system, outputting notifications in the b
 ![vulnicon](https://speartiplogo.s3.amazonaws.com/vulnerable.png)
 ![ScanComplete](https://speartiplogo.s3.amazonaws.com/complete.png)
 
-When it is complete, a text file titled SolarWinds_Info.txt will appear on the Desktop, providing you with further information.
+When it is complete, a text file titled SolarWinds_Info.txt will appear on the Desktop, providing you with further information, and letting you know if Orion.Core.BusinessLayer.dll is present on the system.
 
 If SunScreen locates the Orion.Core.BusinessLayer.dll, you need to assume your system has been compromised. 
 
