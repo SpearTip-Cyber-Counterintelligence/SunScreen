@@ -10,6 +10,7 @@ Download the latest copy of SunScreen: (https://github.com/SpearTip-Cyber-Counte
 Move the latest copy of SunScreen to your Desktop, and double click the application.
 
 SunScreen will then begin scanning the system, outputting notifications in the bottom right hand corner of the Desktop.
+
 ![Logo](https://speartiplogo.s3.amazonaws.com/begin_Scan.png)
 ![vulnicon](https://speartiplogo.s3.amazonaws.com/vulnerable.png)
 ![ScanComplete](https://speartiplogo.s3.amazonaws.com/complete.png)
