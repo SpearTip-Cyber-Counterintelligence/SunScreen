@@ -5,7 +5,7 @@ SunScreen is a tool utilized to detect systems vulnerable to SunBurst, or that h
 
 ## Usage
 
-Download the latest copy of SunScreen: (https://github.com/SpearTip-Cyber-Counterintelligence/SunScreen/files/5705753/SunScreen.SPF.10.exe.zip)
+Download the latest copy of SunScreen: (https://github.com/SpearTip-Cyber-Counterintelligence/SunScreen/raw/main/SunScreen%20SPF%2010.zip)
 
 Move the latest copy of SunScreen to your Desktop, and double click the application.
 
